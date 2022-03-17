@@ -1,6 +1,11 @@
 # Projeto PHP LARAVEL 
 
-## Criando site para registrar usuários que serão capazes de criar e buscar eventos festivos em um site.
+## Objetivos
+
+- Criar site para registrar usuários 
+- Estes serão capazes de 
+    - criar e 
+    - buscar eventos festivos
 
 ## License
 
