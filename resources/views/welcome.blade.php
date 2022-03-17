@@ -6,13 +6,19 @@
 
         <title>Laravel</title>
 
+        <link rel="stylesheet" href="/css/styles.css">
+        <script src="/js/scripts.js" ></script>
+
     </head>
     <body>
 
             <img src="/img/logo.jpg" alt="Logo">
+            
             <a href="/">Home</a>
             <a href="/contact">Contato</a>
             <a href="/produtos">Produtos</a>
+
+            <img src="/img/eventos5.jpg" alt="Bannner" id="Banner">
 
             <h1>Título</h1>
             @if(10 > 15)
