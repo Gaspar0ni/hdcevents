@@ -5,7 +5,8 @@
 @section('content')
 <h1>Produtos</h1>
 
-<a href="/">Home</a>
-<a href="/contact">Contato</a>
-<a href="/produtos">Produtos</a>
+@if($busca != '')
+    <p>O usuário está buscando por: {{ $busca }}</p>
+@endif
+
 @endsection

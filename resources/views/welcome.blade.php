@@ -3,11 +3,6 @@
 @section('title', 'HDC Events')
 
 @section('content')
-            <img src="/img/logo.jpg" alt="Logo">
-            
-            <a href="/">Home</a>
-            <a href="/contact">Contato</a>
-            <a href="/produtos">Produtos</a>
 
             <img src="/img/eventos5.jpg" alt="Bannner" id="Banner">
 
